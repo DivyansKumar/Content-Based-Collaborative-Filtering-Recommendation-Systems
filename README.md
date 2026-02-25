@@ -1,4 +1,3 @@
-# Content-Based-Collaborative-Filtering-Recommendation-Systems
 <a name="2.1"></a>
 ## Content-based filtering with a neural network
 
